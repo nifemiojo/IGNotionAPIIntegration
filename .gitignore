@@ -1,0 +1,8 @@
+/__pycache__
+/.vscode
+/build
+/dist
+application.log
+dump.json
+main.spec
+trial.*

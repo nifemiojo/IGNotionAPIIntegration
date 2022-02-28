@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+schedule = "*"
+instagrapi = "*"
+requests = "*"
+pillow = "*"
+fbs-tutorial = "*"
+
+[dev-packages]
+pylama = "*"
+py2app = "*"
+pyinstaller = "*"
+
+[requires]
+python_version = "3.9"
