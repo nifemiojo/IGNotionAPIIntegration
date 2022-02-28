@@ -89,7 +89,7 @@ def check_for_duplicate_image_in_db(db_id, media_pk):
         "Accept": "application/json",
         "Notion-Version": "2021-08-16",
         "Content-Type": "application/json",
-        "Authorization": f"Bearer secret_K7Oq4q16Ez5xAnXI2GzIDBw1xkr5JCrlFZorPZrJ9A6"
+        "Authorization": f"Bearer ..."
     }
 
     payload = {
